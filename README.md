@@ -1,2 +1,12 @@
 # OnlineStore
-Internet shop on React and Redux. (for training purposes)
+Интернет магазин на React/Redux (для учебных целей)
+
+Чему учимся:
+* Структурировать и конфигурировать проект
+* Писать хороший код в React и Redux на реальном проекте
+* Создавать переиспользуемые селекторы и компоненты
+* Отделять работу с данными от екшенов
+* Использовать библиотеку Ramda для удобной работы с данными
+* Получать данные от API
+
+<a href="http://www.onlinestore.mpavelut.beget.tech/">Live DEMO</a> 
